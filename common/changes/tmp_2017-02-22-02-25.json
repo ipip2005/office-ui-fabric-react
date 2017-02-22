@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "office-ui-fabric-react",
+      "comment": "Update module scss for persona component",
+      "type": "patch"
+    }
+  ],
+  "email": "liaye@microsoft.com"
+}
